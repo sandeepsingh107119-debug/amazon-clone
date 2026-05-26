@@ -11,7 +11,7 @@ const Footer = () => {
           href="https://www.cuchd.in/"
           target="_blank"
         >
-          Made by - Amit, Akash, Arpit, Om and Sandeep.
+          Made by - Sandeep kumar singh.
         </a>
       </p>
     </div>
